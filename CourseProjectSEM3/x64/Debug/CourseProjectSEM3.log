@@ -1,0 +1,20 @@
+﻿  CourseProjectSEM3.cpp
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.h(15,18): warning C4305: аргумент: усечение из "__int64" в "int"
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.h(15,47): warning C4309: аргумент: усечение константного значения
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\CourseProjectSEM3.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Date.cpp
+  Menu.cpp
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.h(15,18): warning C4305: аргумент: усечение из "__int64" в "int"
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.h(15,47): warning C4309: аргумент: усечение константного значения
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Menu.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Product.cpp
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.h(15,18): warning C4305: аргумент: усечение из "__int64" в "int"
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.h(15,47): warning C4309: аргумент: усечение константного значения
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.cpp(75,7): warning C4101: bufPhone: неиспользованная локальная переменная
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.cpp(124,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.cpp(135,55): warning C4305: аргумент: усечение из "__int64" в "int"
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.cpp(135,42): warning C4309: аргумент: усечение константного значения
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.cpp(357,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Илья\source\repos\CourseProjectSEM3\CourseProjectSEM3\Product.cpp(455,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  CourseProjectSEM3.vcxproj -> C:\Users\Илья\source\repos\CourseProjectSEM3\x64\Debug\CourseProjectSEM3.exe

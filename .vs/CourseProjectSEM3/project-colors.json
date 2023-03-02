@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dae1f83d-15c2-47ca-b7a6-29a155037e4a": {
+      "ProjectGuid": "dae1f83d-15c2-47ca-b7a6-29a155037e4a",
+      "DisplayName": "CourseProjectSEM3",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
